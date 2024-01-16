@@ -18,7 +18,7 @@ Use your plugin manager of choice.
 
 ## Usage
 
-Set the variable `VAULT_PASSWORD_FILE` in your environment to the absolute
+Set the variable `ANSIBLE_VAULT_PASSWORD_FILE` in your environment to the absolute
 path of your ansible-vault password file.
 
 Use the command :VaultEncryptionToggle when the cursor is inside a multi-line
